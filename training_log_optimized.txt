@@ -1,0 +1,408 @@
+2025-01-13 11:19 - Training started (SAM vs SAM Optimized)
+2025-01-13 11:19 - Epoch 1/40 - CIFAR-10
+2025-01-13 11:23 - Training started (SAM vs SAM Optimized)
+2025-01-13 11:23 - Epoch 1/40 - CIFAR-10
+2025-01-13 11:25 - SAM - Train Loss: 2.1717, Test Loss: 1.9473, Train Accuracy: 17.46%, Test Accuracy: 26.71%
+2025-01-13 11:25 - Model saved to model_optimized/CIFAR-10/sam/epoch_1.pth
+2025-01-13 11:31 - Training started (SAM vs SAM Optimized)
+2025-01-13 11:31 - Epoch 1/40 - CIFAR-10
+2025-01-13 11:33 - SAM - Train Loss: 2.2121, Test Loss: 3.2126, Train Accuracy: 16.56%, Test Accuracy: 21.35%
+2025-01-13 11:33 - Model saved to model_optimized/CIFAR-10/sam/epoch_1.pth
+2025-01-13 11:34 - SAM Optimized - Train Loss: 1.9075, Test Loss: 1.8575, Train Accuracy: 26.27%, Test Accuracy: 27.63%
+2025-01-13 11:34 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_1.pth
+2025-01-13 11:34 - Epoch 2/40 - CIFAR-10
+2025-01-13 11:36 - SAM - Train Loss: 1.9258, Test Loss: 1.7659, Train Accuracy: 28.39%, Test Accuracy: 32.68%
+2025-01-13 11:36 - Model saved to model_optimized/CIFAR-10/sam/epoch_2.pth
+2025-01-13 11:38 - SAM Optimized - Train Loss: 1.7245, Test Loss: 2.0678, Train Accuracy: 35.59%, Test Accuracy: 26.40%
+2025-01-13 11:38 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_2.pth
+2025-01-13 11:38 - Epoch 3/40 - CIFAR-10
+2025-01-13 11:40 - SAM - Train Loss: 1.7542, Test Loss: 1.5947, Train Accuracy: 36.38%, Test Accuracy: 39.69%
+2025-01-13 11:40 - Model saved to model_optimized/CIFAR-10/sam/epoch_3.pth
+2025-01-13 11:42 - SAM Optimized - Train Loss: 1.5292, Test Loss: 1.6753, Train Accuracy: 43.64%, Test Accuracy: 34.47%
+2025-01-13 11:42 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_3.pth
+2025-01-13 11:42 - Epoch 4/40 - CIFAR-10
+2025-01-13 11:43 - SAM - Train Loss: 1.5621, Test Loss: 1.4972, Train Accuracy: 44.20%, Test Accuracy: 44.84%
+2025-01-13 11:43 - Model saved to model_optimized/CIFAR-10/sam/epoch_4.pth
+2025-01-13 11:45 - SAM Optimized - Train Loss: 1.3755, Test Loss: 1.3761, Train Accuracy: 50.80%, Test Accuracy: 50.47%
+2025-01-13 11:45 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_4.pth
+2025-01-13 11:45 - Epoch 5/40 - CIFAR-10
+2025-01-13 11:47 - SAM - Train Loss: 1.3934, Test Loss: 1.2968, Train Accuracy: 50.75%, Test Accuracy: 54.47%
+2025-01-13 11:47 - Model saved to model_optimized/CIFAR-10/sam/epoch_5.pth
+2025-01-13 11:49 - SAM Optimized - Train Loss: 1.1789, Test Loss: 1.2398, Train Accuracy: 57.95%, Test Accuracy: 56.44%
+2025-01-13 11:49 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_5.pth
+2025-01-13 11:49 - Epoch 6/40 - CIFAR-10
+2025-01-13 11:50 - SAM - Train Loss: 1.2312, Test Loss: 1.1671, Train Accuracy: 57.06%, Test Accuracy: 58.90%
+2025-01-13 11:50 - Model saved to model_optimized/CIFAR-10/sam/epoch_6.pth
+2025-01-13 11:52 - SAM Optimized - Train Loss: 1.0262, Test Loss: 1.2382, Train Accuracy: 64.13%, Test Accuracy: 57.59%
+2025-01-13 11:52 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_6.pth
+2025-01-13 11:52 - Epoch 7/40 - CIFAR-10
+2025-01-13 11:54 - SAM - Train Loss: 1.0840, Test Loss: 1.1235, Train Accuracy: 62.93%, Test Accuracy: 60.42%
+2025-01-13 11:54 - Model saved to model_optimized/CIFAR-10/sam/epoch_7.pth
+2025-01-13 11:56 - SAM Optimized - Train Loss: 0.8851, Test Loss: 1.1389, Train Accuracy: 69.78%, Test Accuracy: 60.61%
+2025-01-13 11:56 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_7.pth
+2025-01-13 11:56 - Epoch 8/40 - CIFAR-10
+2025-01-13 11:58 - SAM - Train Loss: 0.9579, Test Loss: 0.9804, Train Accuracy: 67.74%, Test Accuracy: 66.33%
+2025-01-13 11:58 - Model saved to model_optimized/CIFAR-10/sam/epoch_8.pth
+2025-01-13 11:59 - SAM Optimized - Train Loss: 0.7635, Test Loss: 1.0138, Train Accuracy: 74.26%, Test Accuracy: 66.54%
+2025-01-13 11:59 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_8.pth
+2025-01-13 11:59 - Epoch 9/40 - CIFAR-10
+2025-01-13 12:01 - SAM - Train Loss: 0.8477, Test Loss: 0.9075, Train Accuracy: 71.99%, Test Accuracy: 69.41%
+2025-01-13 12:01 - Model saved to model_optimized/CIFAR-10/sam/epoch_9.pth
+2025-01-13 12:03 - SAM Optimized - Train Loss: 0.6584, Test Loss: 1.1441, Train Accuracy: 78.03%, Test Accuracy: 63.75%
+2025-01-13 12:03 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_9.pth
+2025-01-13 12:03 - Epoch 10/40 - CIFAR-10
+2025-01-13 12:05 - SAM - Train Loss: 0.7576, Test Loss: 0.9242, Train Accuracy: 75.30%, Test Accuracy: 69.59%
+2025-01-13 12:05 - Model saved to model_optimized/CIFAR-10/sam/epoch_10.pth
+2025-01-13 12:07 - SAM Optimized - Train Loss: 0.5721, Test Loss: 0.9990, Train Accuracy: 81.28%, Test Accuracy: 68.40%
+2025-01-13 12:07 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_10.pth
+2025-01-13 12:07 - Epoch 11/40 - CIFAR-10
+2025-01-13 12:08 - SAM - Train Loss: 0.6655, Test Loss: 0.9108, Train Accuracy: 78.92%, Test Accuracy: 70.44%
+2025-01-13 12:08 - Model saved to model_optimized/CIFAR-10/sam/epoch_11.pth
+2025-01-13 12:10 - SAM Optimized - Train Loss: 0.5092, Test Loss: 0.9519, Train Accuracy: 83.52%, Test Accuracy: 69.73%
+2025-01-13 12:10 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_11.pth
+2025-01-13 12:10 - Epoch 12/40 - CIFAR-10
+2025-01-13 12:12 - SAM - Train Loss: 0.5880, Test Loss: 0.8542, Train Accuracy: 81.30%, Test Accuracy: 72.42%
+2025-01-13 12:12 - Model saved to model_optimized/CIFAR-10/sam/epoch_12.pth
+2025-01-13 12:14 - SAM Optimized - Train Loss: 0.4264, Test Loss: 0.9730, Train Accuracy: 86.23%, Test Accuracy: 69.06%
+2025-01-13 12:14 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_12.pth
+2025-01-13 12:14 - Epoch 13/40 - CIFAR-10
+2025-01-13 12:16 - SAM - Train Loss: 0.5279, Test Loss: 0.8406, Train Accuracy: 83.86%, Test Accuracy: 73.17%
+2025-01-13 12:16 - Model saved to model_optimized/CIFAR-10/sam/epoch_13.pth
+2025-01-13 12:17 - SAM Optimized - Train Loss: 0.3510, Test Loss: 0.9951, Train Accuracy: 88.81%, Test Accuracy: 70.67%
+2025-01-13 12:17 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_13.pth
+2025-01-13 12:17 - Epoch 14/40 - CIFAR-10
+2025-01-13 12:19 - SAM - Train Loss: 0.4612, Test Loss: 0.9027, Train Accuracy: 85.92%, Test Accuracy: 72.91%
+2025-01-13 12:19 - Model saved to model_optimized/CIFAR-10/sam/epoch_14.pth
+2025-01-13 12:21 - SAM Optimized - Train Loss: 0.3164, Test Loss: 1.0725, Train Accuracy: 90.05%, Test Accuracy: 69.17%
+2025-01-13 12:21 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_14.pth
+2025-01-13 12:21 - Epoch 15/40 - CIFAR-10
+2025-01-13 12:23 - SAM - Train Loss: 0.4251, Test Loss: 0.8575, Train Accuracy: 87.35%, Test Accuracy: 74.44%
+2025-01-13 12:23 - Model saved to model_optimized/CIFAR-10/sam/epoch_15.pth
+2025-01-13 12:25 - SAM Optimized - Train Loss: 0.2667, Test Loss: 1.1192, Train Accuracy: 91.64%, Test Accuracy: 70.39%
+2025-01-13 12:25 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_15.pth
+2025-01-13 12:25 - Epoch 16/40 - CIFAR-10
+2025-01-13 12:26 - SAM - Train Loss: 0.4078, Test Loss: 0.8534, Train Accuracy: 87.89%, Test Accuracy: 73.66%
+2025-01-13 12:26 - Model saved to model_optimized/CIFAR-10/sam/epoch_16.pth
+2025-01-13 12:28 - SAM Optimized - Train Loss: 0.2316, Test Loss: 0.9787, Train Accuracy: 92.95%, Test Accuracy: 72.06%
+2025-01-13 12:28 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_16.pth
+2025-01-13 12:28 - Epoch 17/40 - CIFAR-10
+2025-01-13 12:30 - SAM - Train Loss: 0.3319, Test Loss: 0.8707, Train Accuracy: 90.47%, Test Accuracy: 73.92%
+2025-01-13 12:30 - Model saved to model_optimized/CIFAR-10/sam/epoch_17.pth
+2025-01-13 12:32 - SAM Optimized - Train Loss: 0.1759, Test Loss: 1.0477, Train Accuracy: 94.55%, Test Accuracy: 71.14%
+2025-01-13 12:32 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_17.pth
+2025-01-13 12:32 - Epoch 18/40 - CIFAR-10
+2025-01-13 12:34 - SAM - Train Loss: 0.2881, Test Loss: 0.8672, Train Accuracy: 92.01%, Test Accuracy: 73.79%
+2025-01-13 12:34 - Model saved to model_optimized/CIFAR-10/sam/epoch_18.pth
+2025-01-13 12:35 - SAM Optimized - Train Loss: 0.1630, Test Loss: 1.2430, Train Accuracy: 95.03%, Test Accuracy: 70.35%
+2025-01-13 12:35 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_18.pth
+2025-01-13 12:35 - Epoch 19/40 - CIFAR-10
+2025-01-13 12:37 - SAM - Train Loss: 0.3154, Test Loss: 0.8665, Train Accuracy: 91.23%, Test Accuracy: 74.73%
+2025-01-13 12:37 - Model saved to model_optimized/CIFAR-10/sam/epoch_19.pth
+2025-01-13 12:39 - SAM Optimized - Train Loss: 0.1393, Test Loss: 1.0124, Train Accuracy: 95.86%, Test Accuracy: 73.19%
+2025-01-13 12:39 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_19.pth
+2025-01-13 12:39 - Epoch 20/40 - CIFAR-10
+2025-01-13 12:41 - SAM - Train Loss: 0.2542, Test Loss: 0.8722, Train Accuracy: 93.11%, Test Accuracy: 74.62%
+2025-01-13 12:41 - Model saved to model_optimized/CIFAR-10/sam/epoch_20.pth
+2025-01-13 12:43 - SAM Optimized - Train Loss: 0.1276, Test Loss: 1.0731, Train Accuracy: 96.17%, Test Accuracy: 71.96%
+2025-01-13 12:43 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_20.pth
+2025-01-13 12:43 - Epoch 21/40 - CIFAR-10
+2025-01-13 12:46 - SAM - Train Loss: 0.2316, Test Loss: 0.8949, Train Accuracy: 93.90%, Test Accuracy: 74.64%
+2025-01-13 12:46 - Model saved to model_optimized/CIFAR-10/sam/epoch_21.pth
+2025-01-13 12:49 - SAM Optimized - Train Loss: 0.0923, Test Loss: 1.1974, Train Accuracy: 97.30%, Test Accuracy: 72.37%
+2025-01-13 12:49 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_21.pth
+2025-01-13 12:49 - Epoch 22/40 - CIFAR-10
+2025-01-13 12:52 - SAM - Train Loss: 0.1853, Test Loss: 0.9106, Train Accuracy: 95.29%, Test Accuracy: 74.49%
+2025-01-13 12:52 - Model saved to model_optimized/CIFAR-10/sam/epoch_22.pth
+2025-01-13 12:55 - SAM Optimized - Train Loss: 0.0793, Test Loss: 1.0900, Train Accuracy: 97.71%, Test Accuracy: 73.43%
+2025-01-13 12:55 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_22.pth
+2025-01-13 12:55 - Epoch 23/40 - CIFAR-10
+2025-01-13 12:58 - SAM - Train Loss: 0.1825, Test Loss: 0.9037, Train Accuracy: 95.57%, Test Accuracy: 74.73%
+2025-01-13 12:58 - Model saved to model_optimized/CIFAR-10/sam/epoch_23.pth
+2025-01-13 13:00 - SAM Optimized - Train Loss: 0.0651, Test Loss: 1.2159, Train Accuracy: 98.17%, Test Accuracy: 72.02%
+2025-01-13 13:00 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_23.pth
+2025-01-13 13:00 - Epoch 24/40 - CIFAR-10
+2025-01-13 13:03 - SAM - Train Loss: 0.1640, Test Loss: 1.0305, Train Accuracy: 96.14%, Test Accuracy: 71.81%
+2025-01-13 13:03 - Model saved to model_optimized/CIFAR-10/sam/epoch_24.pth
+2025-01-13 13:06 - SAM Optimized - Train Loss: 0.0623, Test Loss: 1.0957, Train Accuracy: 98.24%, Test Accuracy: 73.86%
+2025-01-13 13:06 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_24.pth
+2025-01-13 13:06 - Epoch 25/40 - CIFAR-10
+2025-01-13 13:09 - SAM - Train Loss: 0.1610, Test Loss: 0.9133, Train Accuracy: 96.19%, Test Accuracy: 74.67%
+2025-01-13 13:09 - Model saved to model_optimized/CIFAR-10/sam/epoch_25.pth
+2025-01-13 13:12 - SAM Optimized - Train Loss: 0.0641, Test Loss: 1.1320, Train Accuracy: 98.20%, Test Accuracy: 73.14%
+2025-01-13 13:12 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_25.pth
+2025-01-13 13:12 - Epoch 26/40 - CIFAR-10
+2025-01-13 13:13 - SAM - Train Loss: 0.1441, Test Loss: 0.9175, Train Accuracy: 96.66%, Test Accuracy: 75.23%
+2025-01-13 13:13 - Model saved to model_optimized/CIFAR-10/sam/epoch_26.pth
+2025-01-13 13:15 - SAM Optimized - Train Loss: 0.0524, Test Loss: 1.1585, Train Accuracy: 98.60%, Test Accuracy: 73.45%
+2025-01-13 13:15 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_26.pth
+2025-01-13 13:15 - Epoch 27/40 - CIFAR-10
+2025-01-13 13:17 - SAM - Train Loss: 0.1363, Test Loss: 0.9679, Train Accuracy: 96.80%, Test Accuracy: 74.04%
+2025-01-13 13:17 - Model saved to model_optimized/CIFAR-10/sam/epoch_27.pth
+2025-01-13 13:19 - SAM Optimized - Train Loss: 0.0488, Test Loss: 1.1539, Train Accuracy: 98.66%, Test Accuracy: 74.17%
+2025-01-13 13:19 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_27.pth
+2025-01-13 13:19 - Epoch 28/40 - CIFAR-10
+2025-01-13 13:21 - SAM - Train Loss: 0.1337, Test Loss: 0.8997, Train Accuracy: 96.92%, Test Accuracy: 74.64%
+2025-01-13 13:21 - Model saved to model_optimized/CIFAR-10/sam/epoch_28.pth
+2025-01-13 13:23 - SAM Optimized - Train Loss: 0.0381, Test Loss: 1.1326, Train Accuracy: 99.01%, Test Accuracy: 73.84%
+2025-01-13 13:23 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_28.pth
+2025-01-13 13:23 - Epoch 29/40 - CIFAR-10
+2025-01-13 13:24 - SAM - Train Loss: 0.1331, Test Loss: 0.9503, Train Accuracy: 96.95%, Test Accuracy: 73.90%
+2025-01-13 13:24 - Model saved to model_optimized/CIFAR-10/sam/epoch_29.pth
+2025-01-13 13:26 - SAM Optimized - Train Loss: 0.0331, Test Loss: 1.1699, Train Accuracy: 99.17%, Test Accuracy: 74.00%
+2025-01-13 13:26 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_29.pth
+2025-01-13 13:26 - Epoch 30/40 - CIFAR-10
+2025-01-13 13:28 - SAM - Train Loss: 0.1243, Test Loss: 0.9163, Train Accuracy: 97.12%, Test Accuracy: 75.39%
+2025-01-13 13:28 - Model saved to model_optimized/CIFAR-10/sam/epoch_30.pth
+2025-01-13 13:30 - SAM Optimized - Train Loss: 0.0296, Test Loss: 1.2828, Train Accuracy: 99.19%, Test Accuracy: 72.80%
+2025-01-13 13:30 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_30.pth
+2025-01-13 13:30 - Epoch 31/40 - CIFAR-10
+2025-01-13 13:32 - SAM - Train Loss: 0.1166, Test Loss: 0.9532, Train Accuracy: 97.34%, Test Accuracy: 75.06%
+2025-01-13 13:32 - Model saved to model_optimized/CIFAR-10/sam/epoch_31.pth
+2025-01-13 13:34 - SAM Optimized - Train Loss: 0.0268, Test Loss: 1.2496, Train Accuracy: 99.31%, Test Accuracy: 73.73%
+2025-01-13 13:34 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_31.pth
+2025-01-13 13:34 - Epoch 32/40 - CIFAR-10
+2025-01-13 13:35 - SAM - Train Loss: 0.1023, Test Loss: 0.9485, Train Accuracy: 97.72%, Test Accuracy: 74.99%
+2025-01-13 13:35 - Model saved to model_optimized/CIFAR-10/sam/epoch_32.pth
+2025-01-13 13:37 - SAM Optimized - Train Loss: 0.0206, Test Loss: 1.1966, Train Accuracy: 99.46%, Test Accuracy: 74.69%
+2025-01-13 13:37 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_32.pth
+2025-01-13 13:37 - Epoch 33/40 - CIFAR-10
+2025-01-13 13:39 - SAM - Train Loss: 0.0992, Test Loss: 0.9570, Train Accuracy: 97.85%, Test Accuracy: 74.67%
+2025-01-13 13:39 - Model saved to model_optimized/CIFAR-10/sam/epoch_33.pth
+2025-01-13 13:41 - SAM Optimized - Train Loss: 0.0209, Test Loss: 1.1724, Train Accuracy: 99.49%, Test Accuracy: 73.95%
+2025-01-13 13:41 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_33.pth
+2025-01-13 13:41 - Epoch 34/40 - CIFAR-10
+2025-01-13 13:43 - SAM - Train Loss: 0.0972, Test Loss: 1.0171, Train Accuracy: 97.94%, Test Accuracy: 74.66%
+2025-01-13 13:43 - Model saved to model_optimized/CIFAR-10/sam/epoch_34.pth
+2025-01-13 13:45 - SAM Optimized - Train Loss: 0.0173, Test Loss: 1.2584, Train Accuracy: 99.57%, Test Accuracy: 74.92%
+2025-01-13 13:45 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_34.pth
+2025-01-13 13:45 - Epoch 35/40 - CIFAR-10
+2025-01-13 13:46 - SAM - Train Loss: 0.0899, Test Loss: 0.9370, Train Accuracy: 98.13%, Test Accuracy: 75.28%
+2025-01-13 13:46 - Model saved to model_optimized/CIFAR-10/sam/epoch_35.pth
+2025-01-13 13:48 - SAM Optimized - Train Loss: 0.0244, Test Loss: 1.1531, Train Accuracy: 99.34%, Test Accuracy: 73.55%
+2025-01-13 13:48 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_35.pth
+2025-01-13 13:48 - Epoch 36/40 - CIFAR-10
+2025-01-13 13:50 - SAM - Train Loss: 0.1028, Test Loss: 0.9734, Train Accuracy: 97.72%, Test Accuracy: 74.89%
+2025-01-13 13:50 - Model saved to model_optimized/CIFAR-10/sam/epoch_36.pth
+2025-01-13 13:52 - SAM Optimized - Train Loss: 0.0148, Test Loss: 1.2092, Train Accuracy: 99.62%, Test Accuracy: 74.59%
+2025-01-13 13:52 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_36.pth
+2025-01-13 13:52 - Epoch 37/40 - CIFAR-10
+2025-01-13 13:54 - SAM - Train Loss: 0.0895, Test Loss: 0.9313, Train Accuracy: 97.97%, Test Accuracy: 75.52%
+2025-01-13 13:54 - Model saved to model_optimized/CIFAR-10/sam/epoch_37.pth
+2025-01-13 13:55 - SAM Optimized - Train Loss: 0.0133, Test Loss: 1.1556, Train Accuracy: 99.70%, Test Accuracy: 74.79%
+2025-01-13 13:55 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_37.pth
+2025-01-13 13:55 - Epoch 38/40 - CIFAR-10
+2025-01-13 13:57 - SAM - Train Loss: 0.0762, Test Loss: 1.0181, Train Accuracy: 98.35%, Test Accuracy: 75.10%
+2025-01-13 13:57 - Model saved to model_optimized/CIFAR-10/sam/epoch_38.pth
+2025-01-13 13:59 - SAM Optimized - Train Loss: 0.0154, Test Loss: 1.2264, Train Accuracy: 99.60%, Test Accuracy: 74.38%
+2025-01-13 13:59 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_38.pth
+2025-01-13 13:59 - Epoch 39/40 - CIFAR-10
+2025-01-13 14:01 - SAM - Train Loss: 0.0837, Test Loss: 0.9642, Train Accuracy: 98.14%, Test Accuracy: 74.87%
+2025-01-13 14:01 - Model saved to model_optimized/CIFAR-10/sam/epoch_39.pth
+2025-01-13 14:03 - SAM Optimized - Train Loss: 0.0112, Test Loss: 1.2474, Train Accuracy: 99.74%, Test Accuracy: 74.26%
+2025-01-13 14:03 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_39.pth
+2025-01-13 14:03 - Epoch 40/40 - CIFAR-10
+2025-01-13 14:04 - SAM - Train Loss: 0.0725, Test Loss: 0.9998, Train Accuracy: 98.41%, Test Accuracy: 74.39%
+2025-01-13 14:04 - Model saved to model_optimized/CIFAR-10/sam/epoch_40.pth
+2025-01-13 14:06 - SAM Optimized - Train Loss: 0.0092, Test Loss: 1.2505, Train Accuracy: 99.80%, Test Accuracy: 75.15%
+2025-01-13 14:06 - Model saved to model_optimized/CIFAR-10/sam_optimized/epoch_40.pth
+2025-01-13 14:06 - Epoch 1/40 - MNIST
+2025-01-13 14:06 - SAM - Train Loss: 1.0439, Test Loss: 0.1860, Train Accuracy: 64.85%, Test Accuracy: 94.20%
+2025-01-13 14:06 - Model saved to model_optimized/MNIST/sam/epoch_1.pth
+2025-01-13 14:07 - SAM Optimized - Train Loss: 0.1451, Test Loss: 0.1092, Train Accuracy: 95.55%, Test Accuracy: 96.51%
+2025-01-13 14:07 - Model saved to model_optimized/MNIST/sam_optimized/epoch_1.pth
+2025-01-13 14:07 - Epoch 2/40 - MNIST
+2025-01-13 14:07 - SAM - Train Loss: 0.1539, Test Loss: 0.0704, Train Accuracy: 95.37%, Test Accuracy: 97.80%
+2025-01-13 14:07 - Model saved to model_optimized/MNIST/sam/epoch_2.pth
+2025-01-13 14:07 - SAM Optimized - Train Loss: 0.0700, Test Loss: 0.0580, Train Accuracy: 97.78%, Test Accuracy: 98.04%
+2025-01-13 14:07 - Model saved to model_optimized/MNIST/sam_optimized/epoch_2.pth
+2025-01-13 14:07 - Epoch 3/40 - MNIST
+2025-01-13 14:07 - SAM - Train Loss: 0.1065, Test Loss: 0.0559, Train Accuracy: 96.83%, Test Accuracy: 98.27%
+2025-01-13 14:07 - Model saved to model_optimized/MNIST/sam/epoch_3.pth
+2025-01-13 14:07 - SAM Optimized - Train Loss: 0.0500, Test Loss: 0.0463, Train Accuracy: 98.47%, Test Accuracy: 98.39%
+2025-01-13 14:07 - Model saved to model_optimized/MNIST/sam_optimized/epoch_3.pth
+2025-01-13 14:07 - Epoch 4/40 - MNIST
+2025-01-13 14:07 - SAM - Train Loss: 0.0867, Test Loss: 0.0472, Train Accuracy: 97.44%, Test Accuracy: 98.44%
+2025-01-13 14:07 - Model saved to model_optimized/MNIST/sam/epoch_4.pth
+2025-01-13 14:08 - SAM Optimized - Train Loss: 0.0398, Test Loss: 0.0398, Train Accuracy: 98.78%, Test Accuracy: 98.66%
+2025-01-13 14:08 - Model saved to model_optimized/MNIST/sam_optimized/epoch_4.pth
+2025-01-13 14:08 - Epoch 5/40 - MNIST
+2025-01-13 14:08 - SAM - Train Loss: 0.0758, Test Loss: 0.0428, Train Accuracy: 97.72%, Test Accuracy: 98.59%
+2025-01-13 14:08 - Model saved to model_optimized/MNIST/sam/epoch_5.pth
+2025-01-13 14:08 - SAM Optimized - Train Loss: 0.0322, Test Loss: 0.0372, Train Accuracy: 99.05%, Test Accuracy: 98.68%
+2025-01-13 14:08 - Model saved to model_optimized/MNIST/sam_optimized/epoch_5.pth
+2025-01-13 14:08 - Epoch 6/40 - MNIST
+2025-01-13 14:08 - SAM - Train Loss: 0.0655, Test Loss: 0.0381, Train Accuracy: 98.06%, Test Accuracy: 98.77%
+2025-01-13 14:08 - Model saved to model_optimized/MNIST/sam/epoch_6.pth
+2025-01-13 14:08 - SAM Optimized - Train Loss: 0.0270, Test Loss: 0.0343, Train Accuracy: 99.18%, Test Accuracy: 98.82%
+2025-01-13 14:08 - Model saved to model_optimized/MNIST/sam_optimized/epoch_6.pth
+2025-01-13 14:08 - Epoch 7/40 - MNIST
+2025-01-13 14:08 - SAM - Train Loss: 0.0603, Test Loss: 0.0369, Train Accuracy: 98.18%, Test Accuracy: 98.68%
+2025-01-13 14:08 - Model saved to model_optimized/MNIST/sam/epoch_7.pth
+2025-01-13 14:08 - SAM Optimized - Train Loss: 0.0228, Test Loss: 0.0323, Train Accuracy: 99.34%, Test Accuracy: 98.87%
+2025-01-13 14:08 - Model saved to model_optimized/MNIST/sam_optimized/epoch_7.pth
+2025-01-13 14:08 - Epoch 8/40 - MNIST
+2025-01-13 14:09 - SAM - Train Loss: 0.0549, Test Loss: 0.0322, Train Accuracy: 98.33%, Test Accuracy: 98.94%
+2025-01-13 14:09 - Model saved to model_optimized/MNIST/sam/epoch_8.pth
+2025-01-13 14:09 - SAM Optimized - Train Loss: 0.0196, Test Loss: 0.0305, Train Accuracy: 99.47%, Test Accuracy: 98.99%
+2025-01-13 14:09 - Model saved to model_optimized/MNIST/sam_optimized/epoch_8.pth
+2025-01-13 14:09 - Epoch 9/40 - MNIST
+2025-01-13 14:09 - SAM - Train Loss: 0.0511, Test Loss: 0.0319, Train Accuracy: 98.47%, Test Accuracy: 98.89%
+2025-01-13 14:09 - Model saved to model_optimized/MNIST/sam/epoch_9.pth
+2025-01-13 14:09 - SAM Optimized - Train Loss: 0.0169, Test Loss: 0.0282, Train Accuracy: 99.53%, Test Accuracy: 98.99%
+2025-01-13 14:09 - Model saved to model_optimized/MNIST/sam_optimized/epoch_9.pth
+2025-01-13 14:09 - Epoch 10/40 - MNIST
+2025-01-13 14:09 - SAM - Train Loss: 0.0470, Test Loss: 0.0315, Train Accuracy: 98.55%, Test Accuracy: 98.88%
+2025-01-13 14:09 - Model saved to model_optimized/MNIST/sam/epoch_10.pth
+2025-01-13 14:09 - SAM Optimized - Train Loss: 0.0147, Test Loss: 0.0311, Train Accuracy: 99.64%, Test Accuracy: 98.91%
+2025-01-13 14:09 - Model saved to model_optimized/MNIST/sam_optimized/epoch_10.pth
+2025-01-13 14:09 - Epoch 11/40 - MNIST
+2025-01-13 14:09 - SAM - Train Loss: 0.0439, Test Loss: 0.0317, Train Accuracy: 98.66%, Test Accuracy: 98.93%
+2025-01-13 14:09 - Model saved to model_optimized/MNIST/sam/epoch_11.pth
+2025-01-13 14:10 - SAM Optimized - Train Loss: 0.0128, Test Loss: 0.0292, Train Accuracy: 99.66%, Test Accuracy: 98.98%
+2025-01-13 14:10 - Model saved to model_optimized/MNIST/sam_optimized/epoch_11.pth
+2025-01-13 14:10 - Epoch 12/40 - MNIST
+2025-01-13 14:10 - SAM - Train Loss: 0.0412, Test Loss: 0.0322, Train Accuracy: 98.72%, Test Accuracy: 98.82%
+2025-01-13 14:10 - Model saved to model_optimized/MNIST/sam/epoch_12.pth
+2025-01-13 14:10 - SAM Optimized - Train Loss: 0.0114, Test Loss: 0.0291, Train Accuracy: 99.73%, Test Accuracy: 98.98%
+2025-01-13 14:10 - Model saved to model_optimized/MNIST/sam_optimized/epoch_12.pth
+2025-01-13 14:10 - Epoch 13/40 - MNIST
+2025-01-13 14:10 - SAM - Train Loss: 0.0388, Test Loss: 0.0305, Train Accuracy: 98.76%, Test Accuracy: 98.95%
+2025-01-13 14:10 - Model saved to model_optimized/MNIST/sam/epoch_13.pth
+2025-01-13 14:10 - SAM Optimized - Train Loss: 0.0101, Test Loss: 0.0295, Train Accuracy: 99.78%, Test Accuracy: 98.99%
+2025-01-13 14:10 - Model saved to model_optimized/MNIST/sam_optimized/epoch_13.pth
+2025-01-13 14:10 - Epoch 14/40 - MNIST
+2025-01-13 14:10 - SAM - Train Loss: 0.0367, Test Loss: 0.0316, Train Accuracy: 98.84%, Test Accuracy: 98.89%
+2025-01-13 14:10 - Model saved to model_optimized/MNIST/sam/epoch_14.pth
+2025-01-13 14:10 - SAM Optimized - Train Loss: 0.0090, Test Loss: 0.0290, Train Accuracy: 99.80%, Test Accuracy: 99.03%
+2025-01-13 14:10 - Model saved to model_optimized/MNIST/sam_optimized/epoch_14.pth
+2025-01-13 14:10 - Epoch 15/40 - MNIST
+2025-01-13 14:11 - SAM - Train Loss: 0.0347, Test Loss: 0.0299, Train Accuracy: 98.86%, Test Accuracy: 98.96%
+2025-01-13 14:11 - Model saved to model_optimized/MNIST/sam/epoch_15.pth
+2025-01-13 14:11 - SAM Optimized - Train Loss: 0.0080, Test Loss: 0.0272, Train Accuracy: 99.85%, Test Accuracy: 99.09%
+2025-01-13 14:11 - Model saved to model_optimized/MNIST/sam_optimized/epoch_15.pth
+2025-01-13 14:11 - Epoch 16/40 - MNIST
+2025-01-13 14:11 - SAM - Train Loss: 0.0334, Test Loss: 0.0276, Train Accuracy: 98.91%, Test Accuracy: 99.14%
+2025-01-13 14:11 - Model saved to model_optimized/MNIST/sam/epoch_16.pth
+2025-01-13 14:11 - SAM Optimized - Train Loss: 0.0073, Test Loss: 0.0290, Train Accuracy: 99.85%, Test Accuracy: 99.03%
+2025-01-13 14:11 - Model saved to model_optimized/MNIST/sam_optimized/epoch_16.pth
+2025-01-13 14:11 - Epoch 17/40 - MNIST
+2025-01-13 14:11 - SAM - Train Loss: 0.0318, Test Loss: 0.0297, Train Accuracy: 98.95%, Test Accuracy: 98.98%
+2025-01-13 14:11 - Model saved to model_optimized/MNIST/sam/epoch_17.pth
+2025-01-13 14:11 - SAM Optimized - Train Loss: 0.0064, Test Loss: 0.0269, Train Accuracy: 99.89%, Test Accuracy: 99.09%
+2025-01-13 14:11 - Model saved to model_optimized/MNIST/sam_optimized/epoch_17.pth
+2025-01-13 14:11 - Epoch 18/40 - MNIST
+2025-01-13 14:11 - SAM - Train Loss: 0.0300, Test Loss: 0.0254, Train Accuracy: 99.01%, Test Accuracy: 99.16%
+2025-01-13 14:11 - Model saved to model_optimized/MNIST/sam/epoch_18.pth
+2025-01-13 14:12 - SAM Optimized - Train Loss: 0.0059, Test Loss: 0.0268, Train Accuracy: 99.89%, Test Accuracy: 99.09%
+2025-01-13 14:12 - Model saved to model_optimized/MNIST/sam_optimized/epoch_18.pth
+2025-01-13 14:12 - Epoch 19/40 - MNIST
+2025-01-13 14:12 - SAM - Train Loss: 0.0286, Test Loss: 0.0297, Train Accuracy: 99.04%, Test Accuracy: 99.04%
+2025-01-13 14:12 - Model saved to model_optimized/MNIST/sam/epoch_19.pth
+2025-01-13 14:12 - SAM Optimized - Train Loss: 0.0053, Test Loss: 0.0274, Train Accuracy: 99.91%, Test Accuracy: 99.09%
+2025-01-13 14:12 - Model saved to model_optimized/MNIST/sam_optimized/epoch_19.pth
+2025-01-13 14:12 - Epoch 20/40 - MNIST
+2025-01-13 14:12 - SAM - Train Loss: 0.0266, Test Loss: 0.0272, Train Accuracy: 99.08%, Test Accuracy: 99.10%
+2025-01-13 14:12 - Model saved to model_optimized/MNIST/sam/epoch_20.pth
+2025-01-13 14:12 - SAM Optimized - Train Loss: 0.0049, Test Loss: 0.0275, Train Accuracy: 99.90%, Test Accuracy: 99.06%
+2025-01-13 14:12 - Model saved to model_optimized/MNIST/sam_optimized/epoch_20.pth
+2025-01-13 14:12 - Epoch 21/40 - MNIST
+2025-01-13 14:12 - SAM - Train Loss: 0.0264, Test Loss: 0.0269, Train Accuracy: 99.11%, Test Accuracy: 99.12%
+2025-01-13 14:12 - Model saved to model_optimized/MNIST/sam/epoch_21.pth
+2025-01-13 14:13 - SAM Optimized - Train Loss: 0.0044, Test Loss: 0.0271, Train Accuracy: 99.93%, Test Accuracy: 99.14%
+2025-01-13 14:13 - Model saved to model_optimized/MNIST/sam_optimized/epoch_21.pth
+2025-01-13 14:13 - Epoch 22/40 - MNIST
+2025-01-13 14:13 - SAM - Train Loss: 0.0248, Test Loss: 0.0285, Train Accuracy: 99.15%, Test Accuracy: 99.07%
+2025-01-13 14:13 - Model saved to model_optimized/MNIST/sam/epoch_22.pth
+2025-01-13 14:13 - SAM Optimized - Train Loss: 0.0040, Test Loss: 0.0273, Train Accuracy: 99.92%, Test Accuracy: 99.15%
+2025-01-13 14:13 - Model saved to model_optimized/MNIST/sam_optimized/epoch_22.pth
+2025-01-13 14:13 - Epoch 23/40 - MNIST
+2025-01-13 14:13 - SAM - Train Loss: 0.0239, Test Loss: 0.0297, Train Accuracy: 99.18%, Test Accuracy: 99.08%
+2025-01-13 14:13 - Model saved to model_optimized/MNIST/sam/epoch_23.pth
+2025-01-13 14:13 - SAM Optimized - Train Loss: 0.0037, Test Loss: 0.0278, Train Accuracy: 99.94%, Test Accuracy: 99.09%
+2025-01-13 14:13 - Model saved to model_optimized/MNIST/sam_optimized/epoch_23.pth
+2025-01-13 14:13 - Epoch 24/40 - MNIST
+2025-01-13 14:13 - SAM - Train Loss: 0.0228, Test Loss: 0.0293, Train Accuracy: 99.18%, Test Accuracy: 98.97%
+2025-01-13 14:13 - Model saved to model_optimized/MNIST/sam/epoch_24.pth
+2025-01-13 14:14 - SAM Optimized - Train Loss: 0.0034, Test Loss: 0.0271, Train Accuracy: 99.94%, Test Accuracy: 99.11%
+2025-01-13 14:14 - Model saved to model_optimized/MNIST/sam_optimized/epoch_24.pth
+2025-01-13 14:14 - Epoch 25/40 - MNIST
+2025-01-13 14:14 - SAM - Train Loss: 0.0216, Test Loss: 0.0266, Train Accuracy: 99.22%, Test Accuracy: 99.14%
+2025-01-13 14:14 - Model saved to model_optimized/MNIST/sam/epoch_25.pth
+2025-01-13 14:14 - SAM Optimized - Train Loss: 0.0031, Test Loss: 0.0272, Train Accuracy: 99.95%, Test Accuracy: 99.14%
+2025-01-13 14:14 - Model saved to model_optimized/MNIST/sam_optimized/epoch_25.pth
+2025-01-13 14:14 - Epoch 26/40 - MNIST
+2025-01-13 14:14 - SAM - Train Loss: 0.0209, Test Loss: 0.0262, Train Accuracy: 99.26%, Test Accuracy: 99.16%
+2025-01-13 14:14 - Model saved to model_optimized/MNIST/sam/epoch_26.pth
+2025-01-13 14:14 - SAM Optimized - Train Loss: 0.0028, Test Loss: 0.0278, Train Accuracy: 99.95%, Test Accuracy: 99.05%
+2025-01-13 14:14 - Model saved to model_optimized/MNIST/sam_optimized/epoch_26.pth
+2025-01-13 14:14 - Epoch 27/40 - MNIST
+2025-01-13 14:14 - SAM - Train Loss: 0.0205, Test Loss: 0.0278, Train Accuracy: 99.24%, Test Accuracy: 99.15%
+2025-01-13 14:14 - Model saved to model_optimized/MNIST/sam/epoch_27.pth
+2025-01-13 14:14 - SAM Optimized - Train Loss: 0.0026, Test Loss: 0.0292, Train Accuracy: 99.96%, Test Accuracy: 99.10%
+2025-01-13 14:14 - Model saved to model_optimized/MNIST/sam_optimized/epoch_27.pth
+2025-01-13 14:14 - Epoch 28/40 - MNIST
+2025-01-13 14:15 - SAM - Train Loss: 0.0192, Test Loss: 0.0291, Train Accuracy: 99.30%, Test Accuracy: 99.11%
+2025-01-13 14:15 - Model saved to model_optimized/MNIST/sam/epoch_28.pth
+2025-01-13 14:15 - SAM Optimized - Train Loss: 0.0023, Test Loss: 0.0290, Train Accuracy: 99.96%, Test Accuracy: 99.10%
+2025-01-13 14:15 - Model saved to model_optimized/MNIST/sam_optimized/epoch_28.pth
+2025-01-13 14:15 - Epoch 29/40 - MNIST
+2025-01-13 14:15 - SAM - Train Loss: 0.0189, Test Loss: 0.0292, Train Accuracy: 99.33%, Test Accuracy: 99.04%
+2025-01-13 14:15 - Model saved to model_optimized/MNIST/sam/epoch_29.pth
+2025-01-13 14:15 - SAM Optimized - Train Loss: 0.0021, Test Loss: 0.0278, Train Accuracy: 99.97%, Test Accuracy: 99.15%
+2025-01-13 14:15 - Model saved to model_optimized/MNIST/sam_optimized/epoch_29.pth
+2025-01-13 14:15 - Epoch 30/40 - MNIST
+2025-01-13 14:15 - SAM - Train Loss: 0.0184, Test Loss: 0.0280, Train Accuracy: 99.31%, Test Accuracy: 99.02%
+2025-01-13 14:15 - Model saved to model_optimized/MNIST/sam/epoch_30.pth
+2025-01-13 14:15 - SAM Optimized - Train Loss: 0.0021, Test Loss: 0.0277, Train Accuracy: 99.96%, Test Accuracy: 99.16%
+2025-01-13 14:15 - Model saved to model_optimized/MNIST/sam_optimized/epoch_30.pth
+2025-01-13 14:15 - Epoch 31/40 - MNIST
+2025-01-13 14:16 - SAM - Train Loss: 0.0175, Test Loss: 0.0270, Train Accuracy: 99.36%, Test Accuracy: 99.22%
+2025-01-13 14:16 - Model saved to model_optimized/MNIST/sam/epoch_31.pth
+2025-01-13 14:16 - SAM Optimized - Train Loss: 0.0018, Test Loss: 0.0279, Train Accuracy: 99.97%, Test Accuracy: 99.14%
+2025-01-13 14:16 - Model saved to model_optimized/MNIST/sam_optimized/epoch_31.pth
+2025-01-13 14:16 - Epoch 32/40 - MNIST
+2025-01-13 14:16 - SAM - Train Loss: 0.0165, Test Loss: 0.0277, Train Accuracy: 99.35%, Test Accuracy: 99.23%
+2025-01-13 14:16 - Model saved to model_optimized/MNIST/sam/epoch_32.pth
+2025-01-13 14:16 - SAM Optimized - Train Loss: 0.0017, Test Loss: 0.0282, Train Accuracy: 99.97%, Test Accuracy: 99.16%
+2025-01-13 14:16 - Model saved to model_optimized/MNIST/sam_optimized/epoch_32.pth
+2025-01-13 14:16 - Epoch 33/40 - MNIST
+2025-01-13 14:16 - SAM - Train Loss: 0.0166, Test Loss: 0.0308, Train Accuracy: 99.38%, Test Accuracy: 99.02%
+2025-01-13 14:16 - Model saved to model_optimized/MNIST/sam/epoch_33.pth
+2025-01-13 14:16 - SAM Optimized - Train Loss: 0.0017, Test Loss: 0.0281, Train Accuracy: 99.97%, Test Accuracy: 99.20%
+2025-01-13 14:16 - Model saved to model_optimized/MNIST/sam_optimized/epoch_33.pth
+2025-01-13 14:16 - Epoch 34/40 - MNIST
+2025-01-13 14:16 - SAM - Train Loss: 0.0159, Test Loss: 0.0320, Train Accuracy: 99.38%, Test Accuracy: 98.97%
+2025-01-13 14:16 - Model saved to model_optimized/MNIST/sam/epoch_34.pth
+2025-01-13 14:17 - SAM Optimized - Train Loss: 0.0015, Test Loss: 0.0288, Train Accuracy: 99.98%, Test Accuracy: 99.18%
+2025-01-13 14:17 - Model saved to model_optimized/MNIST/sam_optimized/epoch_34.pth
+2025-01-13 14:17 - Epoch 35/40 - MNIST
+2025-01-13 14:17 - SAM - Train Loss: 0.0154, Test Loss: 0.0275, Train Accuracy: 99.42%, Test Accuracy: 99.15%
+2025-01-13 14:17 - Model saved to model_optimized/MNIST/sam/epoch_35.pth
+2025-01-13 14:17 - SAM Optimized - Train Loss: 0.0013, Test Loss: 0.0292, Train Accuracy: 99.98%, Test Accuracy: 99.12%
+2025-01-13 14:17 - Model saved to model_optimized/MNIST/sam_optimized/epoch_35.pth
+2025-01-13 14:17 - Epoch 36/40 - MNIST
+2025-01-13 14:17 - SAM - Train Loss: 0.0149, Test Loss: 0.0289, Train Accuracy: 99.42%, Test Accuracy: 99.11%
+2025-01-13 14:17 - Model saved to model_optimized/MNIST/sam/epoch_36.pth
+2025-01-13 14:17 - SAM Optimized - Train Loss: 0.0012, Test Loss: 0.0293, Train Accuracy: 99.98%, Test Accuracy: 99.10%
+2025-01-13 14:17 - Model saved to model_optimized/MNIST/sam_optimized/epoch_36.pth
+2025-01-13 14:17 - Epoch 37/40 - MNIST
+2025-01-13 14:17 - SAM - Train Loss: 0.0143, Test Loss: 0.0295, Train Accuracy: 99.44%, Test Accuracy: 99.13%
+2025-01-13 14:17 - Model saved to model_optimized/MNIST/sam/epoch_37.pth
+2025-01-13 14:18 - SAM Optimized - Train Loss: 0.0011, Test Loss: 0.0296, Train Accuracy: 99.98%, Test Accuracy: 99.17%
+2025-01-13 14:18 - Model saved to model_optimized/MNIST/sam_optimized/epoch_37.pth
+2025-01-13 14:18 - Epoch 38/40 - MNIST
+2025-01-13 14:18 - SAM - Train Loss: 0.0137, Test Loss: 0.0290, Train Accuracy: 99.47%, Test Accuracy: 99.09%
+2025-01-13 14:18 - Model saved to model_optimized/MNIST/sam/epoch_38.pth
+2025-01-13 14:18 - SAM Optimized - Train Loss: 0.0011, Test Loss: 0.0296, Train Accuracy: 99.99%, Test Accuracy: 99.18%
+2025-01-13 14:18 - Model saved to model_optimized/MNIST/sam_optimized/epoch_38.pth
+2025-01-13 14:18 - Epoch 39/40 - MNIST
+2025-01-13 14:18 - SAM - Train Loss: 0.0133, Test Loss: 0.0290, Train Accuracy: 99.45%, Test Accuracy: 99.18%
+2025-01-13 14:18 - Model saved to model_optimized/MNIST/sam/epoch_39.pth
+2025-01-13 14:19 - SAM Optimized - Train Loss: 0.0010, Test Loss: 0.0302, Train Accuracy: 99.99%, Test Accuracy: 99.14%
+2025-01-13 14:19 - Model saved to model_optimized/MNIST/sam_optimized/epoch_39.pth
+2025-01-13 14:19 - Epoch 40/40 - MNIST
+2025-01-13 14:19 - SAM - Train Loss: 0.0129, Test Loss: 0.0296, Train Accuracy: 99.48%, Test Accuracy: 99.09%
+2025-01-13 14:19 - Model saved to model_optimized/MNIST/sam/epoch_40.pth
+2025-01-13 14:19 - SAM Optimized - Train Loss: 0.0009, Test Loss: 0.0293, Train Accuracy: 99.99%, Test Accuracy: 99.10%
+2025-01-13 14:19 - Model saved to model_optimized/MNIST/sam_optimized/epoch_40.pth
+2025-01-13 14:19 - Training completed (SAM vs SAM Optimized)
