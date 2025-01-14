@@ -6,30 +6,52 @@
 
 ## 文件结构
 
-项目名称/
+code/
 ├── data_loader.py # 数据加载与预处理
+
 ├── models.py # 模型定义
 ├── sam_optimizer.py # 优化器：实现了 SAM 优化器。
+
 ├── sampro.py # 优化器：实现了 SAM 优化器的优化版本。
+
 ├── SAMHessian.py # 优化器：实现了 SAM Hessian 优化器。
+
 ├── train_eval.py # 训练与评估：包含训练和评估模型的函数。
+
 ├── train_utils.py # 训练与评估：包含训练和评估的辅助函数。
+
 ├── train_utils_optimized.py # 训练与评估：包含优化版本的训练和评估辅助函数。
+
 ├── train_utils_SAMHessian.py # 训练与评估：包含 SAM Hessian 版本的训练和评估辅助函数。
+
 ├── main.py # 主脚本：负责训练和评估模型。
+
 ├── main_optimized.py # 主脚本：优化版本的主脚本。
+
 ├── main_SAMHessian.py # 主脚本：SAM Hessian 版本的主脚本。
+
 ├── Grad-CAM.py # 结果可视化：实现了 Grad-CAM，用于可视化模型的注意力区域。
+
 ├── training_log.txt # 日志文件：记录训练过程的日志文件。
+
 ├── training_log_optimized.txt # 日志文件：记录优化版本的训练过程日志文件。
+
 ├── training_log_pro_sam.txt # 日志文件：记录 SAM 优化器变种的训练过程日志文件。
+
 ├── model/ # 结果存储：存储训练好的模型。
+
 ├── model_optimized/ # 结果存储：存储优化版本的训练模型。
+
 ├── model_pro_sam/ # 结果存储：存储 SAM 优化器变种的训练模型。
+
 ├── image/ # 结果存储：存储训练过程中的图像结果。
+
 ├── image_optimized/ # 结果存储：存储优化版本的图像结果。
+
 ├── image_pro_sam/ # 结果存储：存储 SAM 优化器变种的图像结果。
+
 ├── gradcam_results/ # 结果存储：存储 Grad-CAM 的可视化结果。
+
 └── requirements.txt # 依赖文件：列出项目所需的 Python 包。
 
 ## 文件说明
